@@ -50,8 +50,5 @@ will output the documentation for our application.
 `mix escript.build`
 will build a binary executable
 
-`EXEC=xrules mix escript.build`
-build a specific executable (see mix.exs)
-
 Will open a REPL in the context of your mix project.
 `iex -S mix`
